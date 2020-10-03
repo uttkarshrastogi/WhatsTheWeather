@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956095424466",
+    "firebase_url": "https://weather-app-uttkarsh.firebaseio.com",
+    "project_id": "weather-app-uttkarsh",
+    "storage_bucket": "weather-app-uttkarsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956095424466:android:bfabf63ea017c855fe4a0b",
+        "android_client_info": {
+          "package_name": "com.uttkarsh.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956095424466-j3s1csn32i7n6ji5sm6ippb2mfgvs32r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD707WiF4vplaF_yrxN3QtirZk_GVzFcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956095424466-j3s1csn32i7n6ji5sm6ippb2mfgvs32r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
